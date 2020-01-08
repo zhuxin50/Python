@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2830d3ee-982a-4b89-87a4-712a63468427" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/test.iml" afterDir="false" />
+    <list default="true" id="2830d3ee-982a-4b89-87a4-712a63468427" name="Default" comment="test push script from my pavilion14">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipfile.lock" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +16,11 @@
     <favorites_list name="test" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="bruce" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
@@ -101,8 +102,8 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.main" />
       <item itemvalue="Python.app" />
+      <item itemvalue="Python.main" />
     </list>
     <recent_temporary>
       <list>
@@ -134,7 +135,25 @@
       <option name="presentableId" value="Default" />
       <updated>1462981588888</updated>
     </task>
+    <task id="LOCAL-00001" summary="test push script from my pavilion14">
+      <created>1578494072114</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578494072114</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -157,39 +176,51 @@
       <collection />
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test push script from my pavilion14" />
+    <option name="LAST_COMMIT_MESSAGE" value="test push script from my pavilion14" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="67" y="27" width="642" height="741" key="#app" timestamp="1578492830006">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="67" y="27" width="642" height="741" key="#app/67.27.1299.741@67.27.1299.741" timestamp="1578492830006" />
+    <state x="67" y="27" width="696" height="741" key="CommitChangelistDialog2" timestamp="1578494071424">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="67" y="27" width="696" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1578494071424" />
     <state x="344" y="207" width="424" height="484" key="FileChooserDialogImpl" timestamp="1578493298263">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="344" y="207" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1578493298263" />
-    <state width="1256" height="162" key="GridCell.Tab.0.bottom" timestamp="1578493892350">
+    <state width="1256" height="162" key="GridCell.Tab.0.bottom" timestamp="1578494444623">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1256" height="162" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1578493892350" />
-    <state width="1256" height="162" key="GridCell.Tab.0.center" timestamp="1578493892348">
+    <state width="1256" height="162" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1578494444623" />
+    <state width="1256" height="162" key="GridCell.Tab.0.center" timestamp="1578494444622">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1256" height="162" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1578493892348" />
-    <state width="1256" height="162" key="GridCell.Tab.0.left" timestamp="1578493892347">
+    <state width="1256" height="162" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1578494444622" />
+    <state width="1256" height="162" key="GridCell.Tab.0.left" timestamp="1578494444621">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1256" height="162" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1578493892347" />
-    <state width="1256" height="162" key="GridCell.Tab.0.right" timestamp="1578493892349">
+    <state width="1256" height="162" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1578494444621" />
+    <state width="1256" height="162" key="GridCell.Tab.0.right" timestamp="1578494444622">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1256" height="162" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1578493892349" />
+    <state width="1256" height="162" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1578494444622" />
     <state x="195" y="38" key="SettingsEditor" timestamp="1578493888908">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="195" y="38" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1578493888908" />
-    <state x="362" y="230" key="com.intellij.ide.util.TipDialog" timestamp="1578493195223">
+    <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1578494296191">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="362" y="230" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1578493195223" />
+    <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1578494296191" />
+    <state x="362" y="230" key="com.intellij.ide.util.TipDialog" timestamp="1578494807567">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="362" y="230" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1578494807567" />
     <state x="474" y="322" width="454" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578493965764">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
