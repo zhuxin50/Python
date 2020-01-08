@@ -5,8 +5,9 @@
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile.lock" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,27 +21,22 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1RpTSJsqHssJuWoKUwPKnQsaytd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myShowDebugConsoleByDefault" value="true" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Python.app">
     <configuration default="true" type="tests" factoryName="Attests">
@@ -69,9 +65,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="/usr/bin/python3.6" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
@@ -115,6 +111,18 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\bruce\AppData\Roaming\Subversion</configuration>
   </component>
@@ -133,7 +141,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -146,5 +156,43 @@
     <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
       <collection />
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="67" y="27" width="642" height="741" key="#app" timestamp="1578492830006">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="67" y="27" width="642" height="741" key="#app/67.27.1299.741@67.27.1299.741" timestamp="1578492830006" />
+    <state x="344" y="207" width="424" height="484" key="FileChooserDialogImpl" timestamp="1578493298263">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="344" y="207" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1578493298263" />
+    <state width="1256" height="162" key="GridCell.Tab.0.bottom" timestamp="1578493892350">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1256" height="162" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1578493892350" />
+    <state width="1256" height="162" key="GridCell.Tab.0.center" timestamp="1578493892348">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1256" height="162" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1578493892348" />
+    <state width="1256" height="162" key="GridCell.Tab.0.left" timestamp="1578493892347">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1256" height="162" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1578493892347" />
+    <state width="1256" height="162" key="GridCell.Tab.0.right" timestamp="1578493892349">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1256" height="162" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1578493892349" />
+    <state x="195" y="38" key="SettingsEditor" timestamp="1578493888908">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="195" y="38" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1578493888908" />
+    <state x="362" y="230" key="com.intellij.ide.util.TipDialog" timestamp="1578493195223">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="362" y="230" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1578493195223" />
+    <state x="474" y="322" width="454" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578493965764">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="474" y="322" width="454" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1299.741@67.27.1299.741" timestamp="1578493965764" />
   </component>
 </project>
